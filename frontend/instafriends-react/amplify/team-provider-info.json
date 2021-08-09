@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-instafriendsreact-dev-174218-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112219976573:role/amplify-instafriendsreact-dev-174218-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112219976573:role/amplify-instafriendsreact-dev-174218-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-instafriendsreact-dev-174218-deployment",
+      "UnauthRoleName": "amplify-instafriendsreact-dev-174218-unauthRole",
+      "StackName": "amplify-instafriendsreact-dev-174218",
+      "StackId": "arn:aws:cloudformation:us-east-2:112219976573:stack/amplify-instafriendsreact-dev-174218/a98f85d0-f3f3-11eb-8d20-064c4554ff8a",
+      "AmplifyAppId": "d4kuombz2f8w3"
+    },
+    "categories": {
+      "auth": {
+        "instafriendsreact02059cf5": {}
+      }
+    }
+  }
+}

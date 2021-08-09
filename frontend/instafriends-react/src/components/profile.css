@@ -1,0 +1,24 @@
+.paper {
+    background: linear-gradient(45deg, #2196F3 30%, hsl(202, 100%, 85%) 90%, #2196F3 90%);
+    background-size: 250%;
+    animation: gradient 10s linear infinite;
+    animation-direction: alternate;
+    height: 100%;
+    min-height: 180px;
+    min-width: 85vw;
+    display: flex;
+    margin-bottom: 80px;
+    margin-top: 50px;
+    align-items: flex-end;
+    justify-content: center;
+    
+}
+@keyframes gradient {
+    0% {background-position: 10%}
+    100% {background-position: 80%}
+}
+
+
+.root {
+    align-items: center;
+}
