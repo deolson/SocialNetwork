@@ -1,2 +1,23 @@
-# SocialNetwork
-Social media application built on react, spring mvc, hibernate, and PostgreSQL DB
+# InstaFriends
+
+## Project Description
+
+A social media application based on creating and sharing posts and liking these various posts.
+
+## Technologies Used
+
+* 
+* 
+* 
+
+## Features
+
+* 
+* 
+* 
+* 
+* 
+
+To-do list:
+* 
+* 
